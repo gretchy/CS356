@@ -1,5 +1,3 @@
-package iVoteSimulator;
-
 public class Student {
 	
 	private int studID;

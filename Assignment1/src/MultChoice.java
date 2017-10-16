@@ -1,5 +1,3 @@
-package iVoteSimulator;
-
 public class MultChoice implements Question {
 	
 	// this makes it easy to change the correct answer that's displayed on the results

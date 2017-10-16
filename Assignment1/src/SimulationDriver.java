@@ -1,5 +1,3 @@
-package iVoteSimulator;
-
 import java.util.*;
 
 public class SimulationDriver {

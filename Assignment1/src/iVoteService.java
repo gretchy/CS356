@@ -1,5 +1,3 @@
-package iVoteSimulator;
-
 import java.text.*;
 import java.util.*;
 
